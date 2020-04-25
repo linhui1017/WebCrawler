@@ -45,3 +45,17 @@
 2020-04-25 12:35:37 [6657] [INFO] Booting worker with pid: 6657
 2020-04-25 12:35:37 [6658] [INFO] Booting worker with pid: 6658
 2020-04-25 12:35:37 [6659] [INFO] Booting worker with pid: 6659
+2020-04-25 12:38:16 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:16 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:20 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:20 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:21 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:39:00 [6643] [INFO] Handling signal: int
+2020-04-25 12:39:00 [6656] [INFO] Worker exiting (pid: 6656)
+2020-04-25 12:39:00 [6657] [INFO] Worker exiting (pid: 6657)
+2020-04-25 12:39:00 [6658] [INFO] Worker exiting (pid: 6658)
+2020-04-25 12:39:00 [6659] [INFO] Worker exiting (pid: 6659)
+2020-04-25 12:39:00 [6643] [INFO] Shutting down: Master
