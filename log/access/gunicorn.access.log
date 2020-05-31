@@ -58,3 +58,4 @@
 127.0.0.1 - - [31/May/2020:12:37:31 +0800] "POST /api/test/menu_update HTTP/1.1" 200 479 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 127.0.0.1 - - [31/May/2020:12:37:32 +0800] "POST /api/test/menu_update HTTP/1.1" 200 479 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 127.0.0.1 - - [31/May/2020:12:37:33 +0800] "POST /api/test/menu_update HTTP/1.1" 200 479 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+127.0.0.1 - - [31/May/2020:12:46:05 +0800] "POST /api/test/menu_update HTTP/1.1" 200 720 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
