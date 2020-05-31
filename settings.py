@@ -25,11 +25,11 @@ class Config(object):
 
 
 # PostgreSQL
-    PG_USER = os.getenv('FK_PG_USER', '')
-    PG_POSSWORD = os.getenv('FK_PG_POSSWORD', '')
-    PG_SERVER = os.getenv('FK_PG_SERVER', '')
+    PG_USER = os.getenv('FK_PG_USER', 'developer')
+    PG_POSSWORD = os.getenv('FK_PG_POSSWORD', 'Alex8653')
+    PG_SERVER = os.getenv('FK_PG_SERVER', '192.168.20.58')
     FK_PG_PORT = os.getenv('FK_PG_PORT', '5432')
-    PG_DB = os.getenv('FK_PG_DB', '')
+    PG_DB = os.getenv('FK_PG_DB', 'api')
     PG_CONNECTION_STRING = 'postgresql+psycopg2://{0}:{1}@{2}:{3}/{4}'.format(
         PG_USER, PG_POSSWORD, PG_SERVER, FK_PG_PORT, PG_DB)
 
